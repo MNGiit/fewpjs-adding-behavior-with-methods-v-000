@@ -1,4 +1,7 @@
 // Your code here
 class Cat {
-  constructor(name, sex)
+  constructor(name, sex) {
+    this.name = name;
+    this.sex = sex;
+  }
 }
