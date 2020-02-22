@@ -28,6 +28,6 @@ class Bird {
   }
   
   speak() {
-    return `${this.name} says chirp!`;
+    return `It's me! ${this.name}, the parrot!`;
   }
 }
