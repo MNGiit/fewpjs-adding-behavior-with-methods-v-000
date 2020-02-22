@@ -1,4 +1,4 @@
 // Your code here
 class Cat {
-  constructor()
+  constructor(name, sex)
 }
